@@ -2,11 +2,21 @@
 
 Source: https://developers.google.com/tech-writing/one/active-voice
 
+```
 Active Voice Sentence = actor + verb + target
-Passive Voice Sentence = target + verb + actor
+```
 
+```
+Passive Voice Sentence = target + verb + actor
+```
+
+```
 Passive verb = form of be + past participle verb
+```
+
+```
 Active (imperative) verbs = verb
+```
 
 Active voice provides the following advantages:
 1. Most readers mentally convert passive voice to active voice. Why subject your readers to extra processing time? By sticking to active voice, readers can skip the preprocessor stage and go straight to compilation.
