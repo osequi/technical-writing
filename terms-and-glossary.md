@@ -1,3 +1,5 @@
+## Terms and glossary
+
 Source: https://developers.google.com/tech-writing/one/words
 
    1.  If the term already exists, link to a good existing explanation. (Don't reinvent the wheel.)

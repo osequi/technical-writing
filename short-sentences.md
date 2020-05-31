@@ -1,3 +1,5 @@
+## Short sentences
+
 Source: https://developers.google.com/tech-writing/one/short-sentences
 
 1. Focus each sentence on a single idea
