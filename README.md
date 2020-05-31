@@ -20,4 +20,3 @@ Second class: https://developers.google.com/tech-writing/two
 
 1. Perhaps you write more articles. Then create a [[style-guide]] driving all your writings.
 2. No one can write a perfect article from the first attempt. An article needs to be rewritten, iterated. Learn how to [[self-editing]]
-3.  
