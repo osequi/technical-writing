@@ -3,6 +3,7 @@
 - From https://developers.google.com/tech-writing
 - Created with https://obsidian.md/
 
+## Start here
 
 1. You write for an [[audience]]
 2. To teach them new [[terms-and-glossary]] and perhaps [[acronyms]]
