@@ -9,4 +9,3 @@ Source: https://developers.google.com/tech-writing/one/short-sentences
 
 2. Convert some long sentences to lists
 3. Eliminate or reduce extraneous words
-4. 

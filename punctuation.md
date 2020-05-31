@@ -6,4 +6,3 @@ Source: https://developers.google.com/tech-writing/one/punctuation
 2. Semicolons
 3. Em-dashes
 4. Parantheses
-5. 

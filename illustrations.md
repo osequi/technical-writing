@@ -11,7 +11,7 @@ Source: https://developers.google.com/tech-writing/two/illustrations
 
 3. Focus the reader's attention
 
-- Use callouts
+	- Use callouts
 
 4. Illustrating is re-illustrating
 5. Illustration tools
