@@ -28,7 +28,7 @@ Source: https://developers.google.com/tech-writing/one/punctuation
    - An em-dash represents a longer pause—a bigger break—than a comma.
    - Use a pair of em-dashes to block off a digression.
 
-4. Parantheses
+4. Parentheses
 
    - To hold minor points and digressions.
    - The enclosed text isn't critical.
